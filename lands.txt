@@ -1,0 +1,4 @@
+104, Butwal   , West , 50, 20000, Not Available, 2024-05-02, 2024-07-31
+105, Chitwan  , North, 20, 100000, Available
+107, Kathmandu, North, 4, 50000, Available
+108, Pokhara  , East , 5, 60000, Available
